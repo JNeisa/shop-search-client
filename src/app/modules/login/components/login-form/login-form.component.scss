@@ -1,0 +1,10 @@
+.login-form{
+  display: flex;
+  flex-direction: column;
+
+  div.group-inline {
+    .input-inline{
+      margin: 4px;
+    }
+  }
+}
